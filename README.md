@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HHACE
 - 👀 I’m interested in software enginering
-- 🌱 I’m currently learning machine learning for AI 
+- 🌱 I’m currently learning machine learning for AI an digital art under different name (Kelpy)
 - 💞️ I’m looking to collaborate on coding some sofware in many languages
 - 📫 How to reach me huynhhuyhuy12@gmail.com
 - 🏫 Student of fpt university CE172022
