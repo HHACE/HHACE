@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HHACE
+- 👋 Hi, I’m Huynh Anh Huy
 - 👀 I’m interested in software enginering
 - 🌱 I’m currently learning machine learning for AI an digital art under different name (Kelpy)
 - 💞️ I’m looking to collaborate on coding some sofware in many languages
